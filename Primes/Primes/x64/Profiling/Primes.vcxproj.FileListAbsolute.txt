@@ -1,0 +1,2 @@
+C:\Users\ooogs\OneDrive\Desktop\kinpo\Primes\x64\Profiling\Primes.exe.lastcodeanalysissucceeded
+C:\Users\ooogs\OneDrive\Desktop\kinpo\Primes\Primes\x64\Profiling\NativeCodeAnalysis.read.1.tlog
